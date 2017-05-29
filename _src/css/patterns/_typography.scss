@@ -1,0 +1,76 @@
+//
+// Typography
+
+
+@font-face {
+    font-family: 'ridley_groteskbold';
+    src: url('../fonts/ridleygrotesk-bold-webfont.woff2') format('woff2'),
+         url('../fonts/ridleygrotesk-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+// Headings
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+    font-family: 'ridley_groteskbold', 'Roboto', sans-serif;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0.34em;
+    line-height: 1.3;
+    display: block;
+}
+
+
+.heading--alpha {
+    font-size: 2.7em;
+}
+h1,
+.heading--beta {
+    font-size: 2em;
+}
+h2,
+.heading--gamma {
+    font-size: 1.6em;
+}
+h3,
+.heading--delta {
+    font-size: 1.4em;
+}
+h4,
+.heading--epsilon {
+    font-size: 1.2em;
+}
+h5,
+.heading--zeta {
+    font-size: 1em;
+}
+
+body {
+
+	// Typography
+	font-family: 'Roboto', sans-serif;
+	font-size: $base-font-size;
+	line-height: 1.6;
+	color: $body-text-color;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 1em;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.text-emphasis {
+	// todo: make this use 'roboto regular', if its not already...
+	font-weight: bold;
+}

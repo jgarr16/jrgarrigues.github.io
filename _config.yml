@@ -1,0 +1,34 @@
+
+author: John Garrigues
+domain: jrgarrigues.github.io
+about: I'm John, a wannabe developer from Baltimore, MD, USA. I’m currently working as an IT project manager in the public sector, but I am a lifelong learner and always strive to challenge myself. Currently, I am teaching myself how to code with Python with intentions to move on to various flavors of JavaScript later on.</p>
+
+
+collections:
+  style-guide:
+    output: false
+  portfolio:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+
+# Serving
+port: 1234
+
+# markdown: kramdown
+
+skills:
+  - Python
+  - HTML
+  - Javascript
+  - Git
+  - Project Management
+  - Agile Development
+  - DevOps
+  - Data Center 
+  - Networking (computer)

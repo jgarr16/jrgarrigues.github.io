@@ -1,0 +1,29 @@
+<div class="triangle-orange"></div>
+
+<header class="header" role="banner">
+
+	<div class="header__background"></div>
+
+	<div class="inner-constraint">
+
+		<nav class="nav">
+			{% assign pages = site.pages | sort:"nav-position"  %}
+			<ul class="list-reset"><!--
+			{% for p in pages %}
+				{% if p.nav-position != 0 %} --><li>
+						<a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+							{{ p.title }}
+						</a>
+					</li><!--
+					{% endif %}
+			{% endfor %}
+		--></ul>
+		</nav>
+
+		<a href="/" class="logo">
+			<span>{{ site.author }}.</span>
+		</a>
+
+	</div><!-- end inner constraint -->
+
+</header>
