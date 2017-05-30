@@ -17,4 +17,8 @@ My version is written in Python (this one in Python 2.7, but I'll likely upgrade
 
 Hunt the Wumpus isn't a terribly exciting game; I mean, it's text-based for crying out loud. It is a lot of fun, however, to come up with ideas for the game and then turn those ideas into rules using code. In fact, it's a little too much fun. I've already skipped way past what the book recommends and have implemented lots of ideas that might cause problems when I get to more advanced sections of the project as they're defined by the book's author. Alas - that's where "refactoring" comes into play (more on that in a future post). 
 
+For the time being, feel free to peruse my Python code on GitHub at https://github.com/jrgarrigues/wumpus
+
+Figure out what works for you and DO IT! 
+
 
