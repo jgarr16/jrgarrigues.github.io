@@ -11,10 +11,10 @@ My version is written in Python (this one in Python 2.7, but I'll likely upgrade
         <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSExFsaJOt_C3f_3kkUmiTpzRDJQ5AsTLAbeFHOovCpsu-uxfZX" alt="book cover for Hello! Python by Anthony Briggs" />
     </div>
     <div class="grid__item one-half">
-        <img src="https://www.manning.com/books/hello-python" alt="Manning Publishing website" />
+        <img src="https://pycon-au.org/site_media/media/images/AnthonyBriggs.width-500.jpg" alt="Anthony Briggs - author" />
     </div>
 </div>
 
-Hunt the Wumpus isn't a terribly exciting game; I mean, it's text-based for crying out loud. It is a lot of fun, however, to come up with ideas for the game and then turn those ideas into rules using code. In fact, it's a little too much fun. I've already skipped way past what the book recommends and have implemented lots of ideas that might cause problems when I get to more advanced sections of the project as they're defined by the book's author. Alas - that's where "refactoring" comes into play! 
+Hunt the Wumpus isn't a terribly exciting game; I mean, it's text-based for crying out loud. It is a lot of fun, however, to come up with ideas for the game and then turn those ideas into rules using code. In fact, it's a little too much fun. I've already skipped way past what the book recommends and have implemented lots of ideas that might cause problems when I get to more advanced sections of the project as they're defined by the book's author. Alas - that's where "refactoring" comes into play (more on that in a future post). 
 
 
