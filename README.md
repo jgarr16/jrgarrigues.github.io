@@ -1,7 +1,7 @@
 # jrgarrigues.github.io
 ---
 
-My personal portfolio website; theme built on top of one built with Jekyll and Github Pages by Matt Greenfield.
+My personal portfolio website; theme built on top of one built with Jekyll and Github Pages by [Matt Greenfield](https://github.com/mattgreenfield/mattgreenfield.github.io).
 
 ---
 
