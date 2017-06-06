@@ -1,7 +1,7 @@
 ---
 title: Agile in Motion
 display-order: 1
-image: portfolio/dashboard
+image: 
 ---
 
 I'm going to start putting some portfolio stuff here.
