@@ -16,21 +16,7 @@ I've been trying to figure out what the best way to learn technology is for me. 
 - Then, finally, there are micro-courses from places like [Lynda.com](https://www.lynda.com/) and [EnvatoTuts+](https://tutsplus.com/) where you can dive in on a specific topic. 
 
 
-So, everybody has their own ideas on the topic. I was talking to  a guy the other day that was convinced that the only valuable learning came from universities. We were discussing the difference between technical certifications (mature certs like those from Microsoft, Project Management Institute, or others of that ilk) and undergrad/graduate college degrees. His preference went to the latter, but I don't think that I agree. 
+Everybody has their own ideas on the topic. I was talking to  a guy the other day that was convinced that the only valuable learning came from universities. We were discussing the difference between technical certifications (mature certs like those from Microsoft, Project Management Institute, or others of that ilk) and undergrad/graduate college degrees. His preference went to the latter, but I don't think that I agree. 
 
-Focus on objective - what do you want to teach most? Coding excellence, or teamwork?
-
-What would I want in a developer?
-What is the most valuable?
-
-How does that tie in to what I'd like to see in a classroom environment?
-
-There are big differences in the various training formats that are available to us today. Some people like the deep-immersion style offered by the typical degree-granting universities and the MOOC-style offerings.
-
-Degrees are more slow-moving, cumbersome even. It takes a long time to get them up and going, and during the process, you can end up with sub-minimal instructors that get baked into the system along the way.
-
-Compare and contrast that to your typical week-long session at an IT training type facility. I think that these tend to do a little better than universities because there is a more obvious customer demand (and the repercussions that ensue when you don’t meet the customer’s needs). This is where the free market starts kicking in.
-
-No, finally, compare both of them to MOOCs. This is free-market at its finest. People will start and stop MOOCs on the fly, in real time even. Barriers to usage are extremely low. As a result, people vote with their feet - if the class isn’t helpful, or is boring, they’ll drop the MOOC in a heartbeat. The end result is that those that rise to the top tend to be the better, more capable instructors (like Charles Severance from the University of Michigan).
-
+I think that there is probably a solid middle ground where it pays to have an undergrad degree that lays a technical foundation, but that specializations might come from some of the other areas mentioned above. Basically, you go and get baked in the basics of object-oriented programming at your local university - maybe focusing on learning Java - then you branch out later on to build on those basics. 
 
