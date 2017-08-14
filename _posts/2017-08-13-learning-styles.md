@@ -7,12 +7,16 @@ I've been trying to figure out what the best way to learn technology is for me. 
 
 - For the stout-hearted (i.e., the glutons for punishment), you can pick up a book and go it alone. I've got a lot of books! Truth be told, I haven't read most of them... 
  
+- You can go to school and attend classes for a couple/few years to learn some of this stuff. 
+
 - There are bootcamps for people that want to get maximum immersion in the shortest time possible. I haven't done an actual bootcamp, but I've attended week-long courses on specific tech topics - close. 
 
 - We've got [Massive Online Open Courses (MOOCs)](https://en.wikipedia.org/wiki/Massive_open_online_course) from places like [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [EdX](https://www.edx.org/), etc. I've tried some from each; my current preference is Coursera. 
 
 - Then, finally, there are micro-courses from places like [Lynda.com](https://www.lynda.com/) and [EnvatoTuts+](https://tutsplus.com/) where you can dive in on a specific topic. 
 
+
+So, everybody has their own ideas on the topic. I was talking to  a guy the other day that was convinced that the only valuable learning came from universities. We were discussing the difference between technical certifications (mature certs like those from Microsoft, Project Management Institute, or others of that ilk) and undergrad/graduate college degrees. His preference went to the latter, but I don't think that I agree. 
 
 Focus on objective - what do you want to teach most? Coding excellence, or teamwork?
 
