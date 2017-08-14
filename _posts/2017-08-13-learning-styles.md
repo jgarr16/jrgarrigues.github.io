@@ -16,9 +16,10 @@ I've been trying to figure out what the best way to learn technology is for me. 
 - Then, finally, there are micro-courses from places like [Lynda.com](https://www.lynda.com/) and [EnvatoTuts+](https://tutsplus.com/) where you can dive in on a specific topic. 
 
 
-Everybody has their own ideas on the topic. I was talking to  a guy the other day that was convinced that the only valuable learning came from universities. We were discussing the difference between technical certifications (mature certs like those from Microsoft, Project Management Institute, or others of that ilk) and undergrad/graduate college degrees. His preference went to the latter, but I don't think that I agree. 
+I was talking to  a guy the other day that was convinced that the only valuable learning came from universities. We were discussing the difference between technical certifications (mature certs like those from Microsoft, Project Management Institute, or others of that ilk) and undergrad/graduate college degrees. His preference went to the latter, but I don't think that I agree. 
 
 I think that there is probably a solid middle ground where it pays to have an undergrad degree that lays a technical foundation, but that specializations are the add-ons that come later - like an after market car stereo that you install in the dash of your 1972 Ford Pinto. Basically, you go and get baked in the basics of object-oriented programming at your local university - maybe focusing on learning Java - then you branch out later on to build on those basics by attending a tech bootcamp, or a specialization on Coursera. 
 
- 
+Which method do you prefer? Take a second to tell me your thoughts... No, wait, you can't! (I've got to do something about comments some day!)
+
 
