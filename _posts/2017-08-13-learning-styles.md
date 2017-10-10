@@ -2,6 +2,7 @@
 title: "Best Way to Learn"
 excerpt: Discussion about popular methods of learning technology. 
 published: true
+comments: True
 ---
 I've been trying to figure out what the best way to learn technology is for me. There are several popular methods - I've tried a few and am starting to formulate some opinions. 
 

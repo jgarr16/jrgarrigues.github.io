@@ -2,6 +2,7 @@
 title: "The Perfect PDA"
 excerpt: I've always struggled with developing a system to manage my efforts, but think I might have stumbled on something in Python.
 published: true
+comments: True
 ---
 
 I've struggled with organization for a long time. Don't get me wrong, by most peoples' standards, I think I'd be considered 'quite organized' - I get a lot done and done well. But that's not what I'm talking about... 
