@@ -1,0 +1,70 @@
+
+// Logo
+
+.logo {
+
+	// Typography
+	font-family: "ridley_groteskbold";
+	font-size: 32px;
+	text-decoration: none;
+	line-height: 1;
+
+	// Position the text
+	padding-top: 70px;
+	padding-left: 25px;
+
+	display: inline-block;
+	width: $logo-width;
+	height: $logo-height;
+
+	position: relative; // To position the pseudo elements
+
+	// The underline
+	span {
+		position: relative;
+		&:before {
+			content: "";
+			display: block;
+			position: absolute;
+			bottom: 4px;
+			height: 8px;
+			width: 100%;
+			z-index: -1;
+			background: colour(primary);
+		}
+	}
+
+	// The grey trapeze shaped background
+	&:before,
+	&:after {
+		content: "";
+		display: block;
+		position: absolute;
+		height: $logo-height;
+		width: $logo-width;
+		background-size: cover;
+		background-repeat: no-repeat;
+		z-index: -1;
+
+		// Hide it when we're scrolling
+		.scrolling-down & {
+			top: - $logo-height;
+			bottom: 0;
+		}
+	}
+
+	// Make each one look a little different
+	&:before {
+		background-image: url("../img/logo/fill.svg");
+		top: 0;
+		left: 0;
+		transition: top .8s $animate-bounce $header-animate-time;
+	}
+	&:after {
+		background-image: url("../img/logo/border.svg");
+		top: 10px;
+		left: 10px;
+		transition: top 1s $animate-bounce $header-animate-time;
+	}
+
+}

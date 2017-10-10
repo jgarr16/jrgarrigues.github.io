@@ -1,0 +1,50 @@
+//
+// Links
+//
+
+// Reset
+a {
+	color: inherit;
+}
+
+.page-content a,
+.footer a {
+
+	font-weight: bold;
+	text-decoration: underline;
+
+	&:hover {
+		// Opacity with legacy browser fallback. Just to make sure the link can be seen on different background colour
+		background-color: colour(neutral);
+		background-color: colour(neutral, 10);
+	}
+}
+
+// Links in the main page content
+.content-box a {
+
+	color: colour(primary);
+
+	&:visited {
+		color: colour(secondary);
+	}
+}
+
+// Reset some of the above if the link is a heading or an icon
+%link-reset,
+%link-reset:visited,
+%link-reset:hover {
+	text-decoration: none;
+	color: inherit;
+	font-weight: normal;
+}
+
+.heading a {
+	@extend %link-reset;
+}
+a.icon {
+	@extend %link-reset;
+	&:hover {
+		background-color: transparent;
+	}
+}

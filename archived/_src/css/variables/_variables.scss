@@ -1,0 +1,36 @@
+//
+// Variables
+//
+
+// Typography
+$base-font-size:    1.2rem;
+$base-line-height:  1.6;
+
+// Icons
+$base-icon-size: 30px;
+
+// Spacing
+$base-spacing-unit: $base-font-size * $base-line-height;
+
+$grid-gutter: $base-spacing-unit;
+
+
+$logo-height: 200px;
+$logo-width: 210px;
+$header-height: $logo-height + 20px;
+
+
+// Breakpoint Widths
+$lap-start:         670px;
+$desk-start:        1024px;
+
+
+// Transitions
+$animation-time-fast: .3s;
+$animation-time-med: .8s;
+$animation-time-slow: 1.5s;
+
+
+
+
+$animate-bounce: cubic-bezier(0.85, 0.59, 0.56, 1.55);
