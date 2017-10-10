@@ -1,34 +1,29 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<title>John Garrigues | {{ page.title }}</title> 
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-		<meta name="description" content="John Garrigues Tinkerer and Future Developer from Baltimore, MD, USA.">
-		<meta name="author" content="John Garrigues">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
 
-		<link rel="shortcut icon" type="image/ico" href="/assets/favicon.ico"/>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
-		<!-- CSS -->
-		<!-- Critical CSS -->
-		<style>
-			{% if page.title == "About" %}
-				{% include index-critical-css.html %}
-			{% else %}
-				{% include posts-critical-css.html %}
-			{% endif %}
-			svg, img { max-width: 100%; opacity: 0; }
-		</style>
-		<script>
-			// loadCSS: https://github.com/filamentgroup/loadCSS
-			function loadCSS(e,n,o,t){"use strict";var d=window.document.createElement("link"),i=n||window.document.getElementsByTagName("script")[0],r=window.document.styleSheets;return d.rel="stylesheet",d.href=e,d.media="only x",t&&(d.onload=t),i.parentNode.insertBefore(d,i),d.onloadcssdefined=function(e){for(var n,o=0;o<r.length;o++)r[o].href&&r[o].href===d.href&&(n=!0);n?e():setTimeout(function(){d.onloadcssdefined(e)})},d.onloadcssdefined(function(){d.media=o||"all"}),d}
-			// load a file
-			loadCSS( "/assets/css/styles.min.css" );
-		</script>
-		<noscript><link href="/assets/css/styles.min.css" type="text/css" rel="stylesheet"></noscript>
-	</head>
-	<body data-page="{{ page.title }}">
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>

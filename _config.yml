@@ -1,36 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-author: John Garrigues
-domain: jrgarrigues.github.io
-about: I'm John, tinkerer and future developer from Baltimore, MD, USA. I’m currently working as an IT project manager in the public sector, but I am a lifelong learner and always strive to challenge myself. Right now I'm teaching myself how to code with Python with intentions to move on to various flavors of JavaScript later on.</p>
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-collections:
-  style-guide:
-    output: false
-  portfolio:
-    output: true
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      layout: "default"
+paginate:         5
 
-# Serving
-port: 1234
+# Custom vars
+version:          2.1.0
 
-# markdown: kramdown
-
-skills:
-  - Python
-  - HTML
-  - Javascript
-  - Git
-  - Project Management
-  - Agile Development
-  - DevOps
-  - Data Center 
-  - Networking (computer)
-
-theme: jekyll-theme-slate
+github:
+  repo:           https://github.com/poole/hyde
