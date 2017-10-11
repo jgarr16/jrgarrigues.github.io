@@ -5,7 +5,7 @@ description: "A place to blather on with John..."
 baseurl: ""
 url: "https://jrgarrigues.github.io"
 title_description: "I'm John, tinkerer, tweaker, and general dabbler from Baltimore, MD, USA. I’m currently working as an IT project manager in the public sector, but I am a lifelong learner and always strive to challenge myself. In my spare time, I enjoy studying, writing un-Pythonic code, and decomposing things that aren't supposed to be decomposed!"
-title_image: "https://en.gravatar.com/jrgarrigues#photo-1"
+title_image: "https://en.gravatar.com/jrgarrigues"
 google_analytics: 
 disqus_account: jrgarrigues
 github_repository: https://github.com/jrgarrigues
