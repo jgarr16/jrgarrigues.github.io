@@ -5,7 +5,7 @@ description: "A place to blather on with John..."
 baseurl: ""
 url: "https://jrgarrigues.github.io"
 title_description: "Meet John! Tinkerer, tweaker, and general dabbler from Baltimore, MD, USA. He is an IT project manager in the public sector, and a lifelong learner who always strives to challenge himself. In his spare time, he enjoys studying, writing un-Pythonic code, and decomposing things that aren't supposed to be decomposed!"
-title_image: "/images/jg.jpg"
+title_image: "/images/jg-sketched.png"
 google_analytics: 
 disqus_account: jrgarrigues
 github_repository: https://github.com/jrgarrigues
@@ -24,8 +24,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/jrgarrigues\">John Garrigues</a>"
-footer_right: "&nbsp;&nbsp;&nbsp;&lt;/&gt; on <a href=\"https://github.com/jrgarrigues\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/jrgarrigues\">John Garrigues</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jrgarrigues\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
