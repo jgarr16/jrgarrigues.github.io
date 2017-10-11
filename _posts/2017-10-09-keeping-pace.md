@@ -2,7 +2,6 @@
 title: "Keeping Pace With Technology"
 excerpt: Thoughts on what technology is, why it is important to us, whose responsibility it is, and starts the discussion about how we can manage it. 
 published: true
-comments: True
 ---
 
 ### Introduction ###

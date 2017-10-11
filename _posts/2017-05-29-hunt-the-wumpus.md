@@ -2,7 +2,6 @@
 title: "Hunt the Wumpus"
 excerpt: Developing a game to learn how to code in Python.
 published: true
-comments: True
 ---
 
 "Hunt the Wumpus" was an early text-based computer game written in BASIC. Originally devised by Gregory Yob in the mid-1970s, it took root in early computer programming circles because of the availability of its source code - as a result, the game was ported to numerous programming languages and platforms. The concept was simple; a hide and seek-style game that featured a mysterious monster, the Wumpus, that lurked deep inside a network of caves and hallways.  
