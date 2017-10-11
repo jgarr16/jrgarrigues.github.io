@@ -10,7 +10,7 @@ google_analytics:
 disqus_account: jrgarrigues
 github_repository: https://github.com/jrgarrigues
 addthis_id: 
-post_limit: 5
+post_limit: 15
 
 # Social usernames/URLs
 twitter_username: jrgarrigues
