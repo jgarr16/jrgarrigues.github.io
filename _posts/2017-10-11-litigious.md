@@ -9,7 +9,7 @@ This morning I spied an [article](http://www.nextgov.com/defense/2017/10/defense
 
 --pause for effect--
 
-Just in case you didn't catch it the first time, I said they want to "hold people **accountable**!"" What? That's just [cra-cra](http://www.urbandictionary.com/define.php?term=cra%20cra)! 
+Just in case you didn't catch it the first time, I said they want to "hold people accountable!" What? That's just [cra-cra](http://www.urbandictionary.com/define.php?term=cra%20cra)! 
 
 A few years ago I was talking with a colleague about a rumored protest filed by a very large company that provided support services to government agencies in the Baltimore-Washington, D.C. area. It seems that the company in question were unsuccessful in their bid to continue providing services to the government. Apparently, they were incumbents from a prior contract and felt that since they'd held the job in the past that they were the obvious choice to keep doing so in the future. But the people that manage contracts for the government (called Contracting Officers) deemed otherwise and awarded the contract to someone else - so, they sued! 
 
