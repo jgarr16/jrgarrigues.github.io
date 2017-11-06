@@ -51,21 +51,21 @@ The use of empowerment strategies (i.e., giving followers the ability to make de
 ## Case Study - Followers' Perspective ##
 
 Next, the authors focused on four reciprocal behavioral categories that they expected to see from the followers, including: 
-	◆	Helping - the altruistic ways that followers reach out to lend a hand to each other
-	◆	Initiating - the voluntary action of followers to complete activities or generate new ideas  
-	◆	Participating - engagement of followers in the formal activities of the organization, and 
-	◆	Self-developing - self-initiated development that advances the ability of the organization.
+- Helping - the altruistic ways that followers reach out to lend a hand to each other
+- Initiating - the voluntary action of followers to complete activities or generate new ideas  
+- Participating - engagement of followers in the formal activities of the organization, and 
+- Self-developing - self-initiated development that advances the ability of the organization.
 In all three parishes, the expected behaviors were realized to a much greater extent than could be found in parishes where servant leadership was not employed, indicating that followers are more likely to reciprocate when engaged by parish leaders. 
   
 ## Case Study - Linking Mechanisms ##
 
 The authors note the existence of linkages between the behavioral categories of the leaders, and the reciprocal behaviors of those that are led. These linking mechanisms were deemed ‘direct’ due to the fact that the leaders called upon followers in an outright manner: 
-	◆	Invitation - when leaders asked followers to take action on behalf of the parish
-	◆	Inspiration - through their example, leaders inspired followers to devote time and effort to the overall benefit of the parish
-	◆	Affection - leaders demonstrated their affection through the care and support the gave to members of the parish
+- Invitation - when leaders asked followers to take action on behalf of the parish
+- Inspiration - through their example, leaders inspired followers to devote time and effort to the overall benefit of the parish
+- Affection - leaders demonstrated their affection through the care and support the gave to members of the parish
 They also noted two types of indirect linkages that took place without direct interaction between the leaders and followers. These mechanisms appear to be prevalent even when the leaders were not present:
-	◆	Culture of service - cultural norms that evolved over time as a result of the way that the leader conducted themselves on a recurring basis
-	◆	Structural mechanisms - self-sufficient systems that evolved as a result of the leader’s influence
+- Culture of service - cultural norms that evolved over time as a result of the way that the leader conducted themselves on a recurring basis
+- Structural mechanisms - self-sufficient systems that evolved as a result of the leader’s influence
 
 ![Servant Leadership - Linkages][/images/ServantLeadership-linkages.png]
 Figure 1: Linkages Between Servant Leadership and Organizational Citizenship
@@ -77,9 +77,9 @@ The study closes with an overview of servant leaders that will opt to serve rath
 ## Summary ##
 
 In this paper, I set out to answer a series of questions, based on the review of a case study that was conducted in 2010 at three church parishes in Iowa. The research questions, and their summarized answers, are: 
-	◆	What is servant leadership? — A type of leadership exhibited by leaders with a servant mindset, that are willing to devote themselves to providing service to subordinates in order to realize a more effective organization and culture.
-	◆	What impact can servant leadership have in a public sector organization? — Servant leaders bring new, potentially untapped capabilities to any organization, even those in the public sector. They do this by expanding the sphere of influence, and enabling a culture of capability and willingness on behalf of the vast majority of organizational members that likely went unrealized before.
-	◆	What methods can be used to teach or train leaders in the use of servant leadership? — The path to servant leadership is not easy. It requires individuals with established personality traits that are selfless and visionary, and takes dedication and devotion on behalf of the individual and/or the organization. 
+- What is servant leadership? — A type of leadership exhibited by leaders with a servant mindset, that are willing to devote themselves to providing service to subordinates in order to realize a more effective organization and culture.
+- What impact can servant leadership have in a public sector organization? — Servant leaders bring new, potentially untapped capabilities to any organization, even those in the public sector. They do this by expanding the sphere of influence, and enabling a culture of capability and willingness on behalf of the vast majority of organizational members that likely went unrealized before.
+- What methods can be used to teach or train leaders in the use of servant leadership? — The path to servant leadership is not easy. It requires individuals with established personality traits that are selfless and visionary, and takes dedication and devotion on behalf of the individual and/or the organization. 
 Servant leadership is a hard road to travel, but the results are addictive. This is the reason for the current hype in management circles - it takes time to develop an organization that can facilitate a servant leadership approach and more time to realize the benefits of this type of organization. But once a company gets a taste of it, they’ll always want more and will be willing to make investments that promise to deliver more. 
 
 
