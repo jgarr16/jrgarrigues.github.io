@@ -67,8 +67,8 @@ They also noted two types of indirect linkages that took place without direct in
 - Culture of service - cultural norms that evolved over time as a result of the way that the leader conducted themselves on a recurring basis
 - Structural mechanisms - self-sufficient systems that evolved as a result of the leader’s influence
 
-![Servant Leadership - Linkages][/images/ServantLeadership-linkages.png]
-Figure 1: Linkages Between Servant Leadership and Organizational Citizenship
+![Servant Leadership - Linkages](/images/ServantLeadership-linkages.png)
+*Figure 1: Linkages Between Servant Leadership and Organizational Citizenship*
   
 ## Case Study - Conclusion ##
 
@@ -107,4 +107,3 @@ Rose, J. (2017). Success through Servant Leadership. Radiology Management, 39(3)
 Spears, L. (2000). Character and Servant Leadership: Ten Characteristics of Effective, Caring Leaders. Concepts and Connections, Newsletter for the National Clearinghouse for Leadership Programs, 8(3).
 
 
-[/images/ServantLeadership-linkages.png]: ServantLeadership-linkages.png width=385px height=184px
