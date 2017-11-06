@@ -106,4 +106,4 @@ Rose, J. (2017). Success through Servant Leadership. Radiology Management, 39(3)
 Spears, L. (2000). Character and Servant Leadership: Ten Characteristics of Effective, Caring Leaders. Concepts and Connections, Newsletter for the National Clearinghouse for Leadership Programs, 8(3).
 
 
-[ServantLeadership-linkages.png]: ServantLeadership-linkages.png width=385px height=184px
+[/images/ServantLeadership-linkages.png]: ServantLeadership-linkages.png width=385px height=184px
