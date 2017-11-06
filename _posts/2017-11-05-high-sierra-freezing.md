@@ -4,15 +4,13 @@ excerpt: This post describes a resolution to problems that I encountered with my
 published: true
 ---
 
-I like new stuff; software and operating systems included! I've always been eager to have the latest version of a system working on whichever device I am using at the time; to the point that I frequently run beta software to see what's coming next and help identify inconsistencies when I can. Bottom line: I think that technology is cool, but new tech is the cats' meow!
+I like new stuff; software and operating systems included! I've always been eager to have the latest version of a system working on whichever device I am using at the time, to the point that I frequently run beta software to see what's coming next and help wipe out bugs and identify problems when I can. Bottom line: I think that technology is cool, but new tech is the cats' meow!
 
-Thus, a couple months ago, I installed the newest Mac operating system, High Sierra, on my mid-2015 MacBook Pro. I was immediately confronted with an issue that I thought was going to be a mere  - where it seemed like my MacBook Pro (mid-2015) was 'freezing.' My only recourse was to press the power button for 10 seconds to shut the computer down, then press it again for a few more seconds to start it anew. 
+This is how I ended up installing the newest Mac operating system, High Sierra, on my mid-2015 MacBook Pro a couple months ago. As soon as I loaded it up, I was immediately confronted with an issue that I thought would be eradicated in short order because of the severity; the issue was that my (mid-2015) MacBook Pro was 'freezing up’ when I allowed it to go into sleep mode. When this happened, which was at least daily, my only recourse was to press the power button for 10 seconds to shut the computer down, then press it again for a few more seconds to start it anew. As wrong as I know it is, I tend to leave my MBP running around the clock, meaning that I frequently found it ‘frozen’ whenever I returned to the office after any period of time. 
 
-I tend to leave my MBP running around the clock. Most often it would 'freeze' when I returned to it and attempted to wake it up from a sleeping state. 
+I tried lots of things to fix this because it was driving me batty. Based on information I found on the internet, I booted it up in Safe Mode, but couldn't identify a particular application that might be causing the problem. I tried using operating system cleaning tools to no avail. I finally got to the point where I wiped my hard drive and completely reinstalled the High Sierra operating system, but there were no significant changes, so I took it a step further and did a clean install of my original OS (Yosemite), and then upgraded to High Sierra again - alas, the 'freezing' persisted! 
 
-I tried lots of things to fix this because it was driving me batty. Safe Mode didn't do it. I couldn't identify a particular application that might be causing the problem. I tried the OS cleaning tools to no avail. I finally got to the point where I wiped my MBP and reinstalled High Sierra; no changes, so I took it a step further and wiped, reinstalled with my original OS (Yosemite), and then upgraded to High Sierra again - the 'freezing' persisted! 
-
-Like you, I assumed that my MBP was 'freezing up' until I ran across this article from GottaBeMobile: https://www.gottabemobile.com/fix-macos-high-sierra-problems/. The middle part of the article mentions <i>fixes for display problems</i> which got me thinking - maybe this isn't a 'freezing' problem, but a display problem. It fit because when I restarted during hours of darkness, I could see that the display was actually doing something because a minimal amount of illumination was perceptibly lost when I held the power button down for 10 seconds to execute a shutdown. 
+Up to this point, I assumed that my laptop was 'freezing up' until I ran across an article from [GottaBeMobile](https://www.gottabemobile.com/fix-macos-high-sierra-problems/). Hidden in the middle of the article is a brief mention of **fixes for display problems** which got me thinking - maybe this isn't a 'freezing' problem, but a display problem. Logically, it fit because when I restarted during hours of darkness, I could detect a faint glimmer from the display that went away when I held the power button down for 10 seconds to execute a shutdown. 
 
 Quoting the pertinent part of the article, it says: 
 
@@ -24,6 +22,6 @@ Quoting the pertinent part of the article, it says:
 
 > So far this has helped solve some of our most annoying macOS High Sierra problems.
 
-If you follow the links in Josh's article you will find 
+If you follow the links in Josh's article you will find a reference to an [Apple Support post](https://support.apple.com/en-us/HT201295) about the System Management Controller (SMC). The SMC is the component that is responsible for many low-level functions on Intel-based Mac computers, such as the display. 
 
-I'm only 2 days into it, but this seems to have fixed my 'freezing' problem. So far High Sierra has waken up from its sleep state without giving me that stupid, blank screen stare and it's acting like the Mac I have come to know and love again... My thanks go out to Josh Smith from GottaBeMobile and I hope this helps you with your issue.
+I'm only a couple days into it now, but this seems to have fixed my 'freezing' problem. So far High Sierra has waken up from its sleep state without giving me that stupid, blank screen stare and it's acting like the Mac I have come to know and love, again... My thanks go out to Josh Smith from GottaBeMobile and I hope this helps you with your issue.
