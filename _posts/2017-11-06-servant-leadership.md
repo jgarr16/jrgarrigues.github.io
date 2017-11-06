@@ -14,9 +14,9 @@ In this paper, we explore the effects of the application of servant leadership b
 ## Research Questions ##
 
 By exploring the outcome of the selected case study, this paper aims to pose the following research questions and attempts to discern answers for them, or proffer recommendations for future research: 
-	◆	What is servant leadership? 
-	◆	What impact can servant leadership have in a public sector organization? 
-	◆	What methods can be used to teach or train leaders in the use of servant leadership? 
+- What is servant leadership? 
+- What impact can servant leadership have in a public sector organization? 
+- What methods can be used to teach or train leaders in the use of servant leadership? 
   
 ## What Is Servant Leadership?  ##
 
@@ -43,9 +43,9 @@ The results of this case study offers insights to potential results in other pub
 
 The study begins with an overview of the current literature, focusing on the seminal work done by Greenleaf and Spears, and then comparing and contrasting differences between the theories embodied in Servant Leadership and Command-and-Control Leadership practices. 
 First, the authors focused on three behavioral categories of the leaders in the parishes, these included: 
-	◆	Recognizing - the acknowledgment of their followers’ skills and abilities
-	◆	Serving - assisting followers in dealing with problems, and 
-	◆	Empowering - enabling followers to act on behalf of the organization.
+- Recognizing - the acknowledgment of their followers’ skills and abilities
+- Serving - assisting followers in dealing with problems, and 
+- Empowering - enabling followers to act on behalf of the organization.
 The use of empowerment strategies (i.e., giving followers the ability to make decisions at lower levels that impact outcomes) such as provide lasting benefits to the organization by delegating the authority for decision making and sharing the responsibility of leadership amongst a broader base. Additionally, management benefits from the enhanced buy-in that is recognized by the follower base when they are involved as part of the leadership process through empowerment. 
    
 ## Case Study - Followers' Perspective ##
@@ -67,7 +67,7 @@ They also noted two types of indirect linkages that took place without direct in
 	◆	Culture of service - cultural norms that evolved over time as a result of the way that the leader conducted themselves on a recurring basis
 	◆	Structural mechanisms - self-sufficient systems that evolved as a result of the leader’s influence
 
-![][ServantLeadership-linkages.png]
+![Servant Leadership - Linkages][/images/ServantLeadership-linkages.png]
 Figure 1: Linkages Between Servant Leadership and Organizational Citizenship
   
 ## Case Study - Conclusion ##
