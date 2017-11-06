@@ -80,6 +80,7 @@ In this paper, I set out to answer a series of questions, based on the review of
 - What is servant leadership? — A type of leadership exhibited by leaders with a servant mindset, that are willing to devote themselves to providing service to subordinates in order to realize a more effective organization and culture.
 - What impact can servant leadership have in a public sector organization? — Servant leaders bring new, potentially untapped capabilities to any organization, even those in the public sector. They do this by expanding the sphere of influence, and enabling a culture of capability and willingness on behalf of the vast majority of organizational members that likely went unrealized before.
 - What methods can be used to teach or train leaders in the use of servant leadership? — The path to servant leadership is not easy. It requires individuals with established personality traits that are selfless and visionary, and takes dedication and devotion on behalf of the individual and/or the organization. 
+
 Servant leadership is a hard road to travel, but the results are addictive. This is the reason for the current hype in management circles - it takes time to develop an organization that can facilitate a servant leadership approach and more time to realize the benefits of this type of organization. But once a company gets a taste of it, they’ll always want more and will be willing to make investments that promise to deliver more. 
 
 
