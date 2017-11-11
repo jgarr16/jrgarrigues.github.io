@@ -22,6 +22,8 @@ Quoting the pertinent part of the article, it says:
 
 > So far this has helped solve some of our most annoying macOS High Sierra problems.
 
-If you follow the links in Josh's article you will find a reference to an [Apple Support post](https://support.apple.com/en-us/HT201295) about the System Management Controller (SMC). The SMC is the component that is responsible for many low-level functions on Intel-based Mac computers, such as the display. 
+If you follow the links in Josh's article you will find a reference to an [Apple Support post](https://support.apple.com/en-us/HT201295) about the System Management Controller (SMC). The SMC is the component that is responsible for many low-level functions on Intel-based Mac computers, such as the display. There is a link to the [NVRAM description page](https://support.apple.com/en-us/HT204063) at the bottom of the SMC page too. 
 
 I'm only a couple days into it now, but this seems to have fixed my 'freezing' problem. So far High Sierra has waken up from its sleep state without giving me that stupid, blank screen stare and it's acting like the Mac I have come to know and love, again... My thanks go out to Josh Smith from GottaBeMobile and I hope this helps you with your issue.
+
+FOLLOW-UP: I ran into the same issue again after installing some applications, so I'm pretty sure my issue is the result of incompatible programs...
