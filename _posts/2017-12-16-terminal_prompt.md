@@ -10,7 +10,6 @@ Want to customize the terminal prompt on your Mac? Here's how:
 - add a custom prompt to your .bash_profile: `export PS1=" "`
 - next, insert the variables or text that you want to see in between the quote marks
   - for example: `export PS1="\d - \t ❤️  :~ "` will look like this...
-   
   ![](/images/terminalprompt.png)
   - you can use emoticons too; I like this because it helps to break up the terminal for me, even if a heart isn't exactly the emotion that I'm feeling at that moment!
 
