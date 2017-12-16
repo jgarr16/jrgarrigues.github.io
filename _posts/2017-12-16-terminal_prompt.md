@@ -13,8 +13,8 @@ Want to customize the terminal prompt on your Mac? Here's how:
   ![](/images/terminalprompt.png)
   - you can use emoticons too; I like this because it helps to break up the terminal for me, even if a heart isn't exactly the emotion that I'm feeling at that moment!
 
-Some common variables that you can play with include: 
 
+Some common variables that you can play with include: 
 - \d – Current date
 - \t – Current time
 - \h – Host name
