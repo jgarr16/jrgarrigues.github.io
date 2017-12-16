@@ -12,7 +12,6 @@ Want to customize the terminal prompt on your Mac? Here's how:
   - for example: `export PS1="\d - \t ❤️  :~ "` will look like this...
    
   ![](/images/terminalprompt.png)
-      
   - note that you can use emoticons also; I like this because it helps to break up the terminal for me.
 
 Some common variables that you can play with include: 
