@@ -4,10 +4,10 @@ excerpt: Looking for ways that blockchain can be used outside of the cryptocurre
 published: true
 ---
 
-This article from TechCrunch highlights the use of blockchain as a tool to help homeless people in Austin, TX. 
+This [TechCrunch article](https://techcrunch.com/2018/04/14/austin-is-piloting-blockchain-to-improve-homeless-services/) highlights the use of blockchain as a tool to help homeless people in Austin, TX. 
 
 
 
 
 
-https://techcrunch.com/2018/04/14/austin-is-piloting-blockchain-to-improve-homeless-services/
+
