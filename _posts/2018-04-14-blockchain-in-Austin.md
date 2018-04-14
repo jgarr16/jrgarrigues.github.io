@@ -1,4 +1,10 @@
+---
+title: "Blockchain in Austin"
+excerpt: Looking for ways that blockchain can be used outside of the cryptocurrency realm.
+published: true
+---
 
+This article from TechCrunch highlights the use of blockchain as a tool to help homeless people in Austin, TX. 
 
 
 
