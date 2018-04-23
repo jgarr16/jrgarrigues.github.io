@@ -35,6 +35,7 @@ What follows is the high-level steps for setting up venv in a Python 3 environme
    |Windows	 |cmd.exe	|C:\> <venv>\Scripts\activate.bat|
    | 	       |PowerShell|PS C:\> <venv>\Scripts\Activate.ps1|
    
+
 3. For good measure, update PIP:
 
    ```(<name_of_vir_env>) blunderboy:~ pip install --upgrade pip```
