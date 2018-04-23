@@ -10,9 +10,10 @@ Python employs Virtual Environments (venv) to isolate environments and the compo
 
 The official Python documentation on the topic can be found at [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html).
 
-Here are the high-level steps for setting up venv: 
+What follows is the high-level steps for setting up venv in a Python 3 environment: 
 
-
+1. Enable venv with this command (*note: venv does not need to be installed as it is a standard component in Python 3*)
+```wonderboy:~ python3 -m venv <name_of_vir_env>```
 
 
 
