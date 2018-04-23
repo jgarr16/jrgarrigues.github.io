@@ -4,7 +4,7 @@ excerpt: Using virtual environments in Python.
 published: true
 ---
 
-!["Python Virtual Environments (venv)"](/images/Python.png)
+!["Python Virtual Environments (venv)"](/images/python-logo-for-blog.png)
 
 Virtual Environments are used in Python to enable isolated environments 
 
