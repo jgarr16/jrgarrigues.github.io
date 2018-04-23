@@ -66,5 +66,7 @@ What follows is the high-level steps for setting up venv in a Python 3 environme
    
    ```blunderboy:~ rm -r <name_of_next_vir_env>```
    
-   
+If all goes well, you should be looking at something like this: 
+
+!["Python venv sample"](/images/venv_show.png)
     
