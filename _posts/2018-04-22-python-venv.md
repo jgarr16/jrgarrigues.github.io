@@ -2,7 +2,6 @@
 title: "Python Virtual Environments (venv)"
 excerpt: Using virtual environments in Python.
 published: true
-make-smaller-titles: true
 ---
 
 !["Python Virtual Environments (venv)"](/images/python-logo-for-blog.png)
