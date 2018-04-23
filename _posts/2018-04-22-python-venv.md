@@ -21,6 +21,7 @@ What follows is the high-level steps for setting up venv in a Python 3 environme
 2. Activate the venv - *note the addition of the venv name after activation*:
 
    ```blunderboy:~ source <name_of_vir_env>/bin/activate```
+
    ```(<name_of_vir_env>) blunderboy:~ ```
    
    (*other operating systems will need to use commands for their particular OS*)
