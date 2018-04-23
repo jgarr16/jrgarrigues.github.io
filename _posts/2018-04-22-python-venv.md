@@ -24,7 +24,7 @@ What follows is the high-level steps for setting up venv in a Python 3 environme
 
    ```(<name_of_vir_env>) blunderboy:~ ```
    
-   (*other operating systems will need to use commands for their particular OS*)
+   (*this guide is for MacOS, other platforms will need to use commands for their particular OS*)
 
 
    | Platform | Shell  | Command |
