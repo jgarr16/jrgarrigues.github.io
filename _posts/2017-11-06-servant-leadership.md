@@ -1,5 +1,5 @@
 ---
-title: “Servant Leadership”
+title: Servant Leadership
 excerpt: Studying the effects of the application of servant leadership through the  review of a case study.   
 published: true
 ---
