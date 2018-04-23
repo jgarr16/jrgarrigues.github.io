@@ -1,5 +1,5 @@
 ---
-title: "Python venv"
+title: "Python Virtual Environments (venv)"
 excerpt: Using virtual environments in Python.
 published: true
 ---
