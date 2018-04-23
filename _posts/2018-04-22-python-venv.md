@@ -35,4 +35,35 @@ What follows is the high-level steps for setting up venv in a Python 3 environme
    |Windows	 |cmd.exe	|C:\> <venv>\Scripts\activate.bat|
    | 	       |PowerShell|PS C:\> <venv>\Scripts\Activate.ps1|
    
-3. 
+3. For good measure, update PIP:
+
+   ```(<name_of_vir_env>) blunderboy:~ pip install --upgrade pip```
+   
+4. Run *pip list* to see what modules are installed in the venv:
+
+   ```(<name_of_vir_env>) blunderboy:~ pip list```
+   
+5. Install the packages that you need for the environment:
+
+   ```(<name_of_vir_env>) blunderboy:~ pip install beautifulsoup4```
+   
+6. To quit the virtual environment, you can deactivate it: 
+
+   ```(<name_of_vir_env>) blunderboy:~ deactivate```
+   
+   or, you can activate another venv (if it is already established):
+   
+   ```(<name_of_vir_env>) blunderboy:~ source <name_of_next_vir_env>/bin/activate```
+      
+   ```(<name_of_next_vir_env>) blunderboy:~ ```
+   
+7. Finally, if you want to delete the virtual environment, deactivate any venv that you are in, and list the files in the directory. You will see all named venvs. To delete, simply run a recursive remove *rm -r <venv>*:
+   
+   ```(<name_of_next_vir_env>) blunderboy:~ deactivate```
+   
+   ```blunderboy:~ ls -al```
+   
+   ```blunderboy:~ rm -r <name_of_next_vir_env>```
+   
+   
+    
