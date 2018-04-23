@@ -12,20 +12,26 @@ The official Python documentation on the topic can be found at [https://docs.pyt
 
 What follows is the high-level steps for setting up venv in a Python 3 environment: 
 
-1. Enable venv with this command 
+1. Enable the venv:
    
    (*note: venv does not need to be installed as it is a standard component in Python 3*)
 
-   ```wonderboy:~ python3 -m venv <name_of_vir_env>```
+   ```blunderboy:~ python3 -m venv <name_of_vir_env>```
+
+2. Activate the venv - *note the addition of the venv name after activation*:
+
+   ```blunderboy:~ source <name_of_vir_env>/bin/activate
+   (<name_of_vir_env>) blunderboy:~ ```
+   
+   (*other operating systems will need to use commands for their particular OS*)
 
 
-
-
-
-| Platform | Shell  | Command |
-|----------|--------|---------|
-|Posix	   |bash/zsh|$ source <venv>/bin/activate|
-|          |fish	  |$ . <venv>/bin/activate.fish|
-| 	       |csh/tcsh|$ source <venv>/bin/activate.csh|
-|Windows	 |cmd.exe	|C:\> <venv>\Scripts\activate.bat|
-| 	       |PowerShell|PS C:\> <venv>\Scripts\Activate.ps1|
+   | Platform | Shell  | Command |
+   |----------|--------|---------|
+   |Posix	   |bash/zsh|$ source <venv>/bin/activate|
+   |          |fish	  |$ . <venv>/bin/activate.fish|
+   | 	       |csh/tcsh|$ source <venv>/bin/activate.csh|
+   |Windows	 |cmd.exe	|C:\> <venv>\Scripts\activate.bat|
+   | 	       |PowerShell|PS C:\> <venv>\Scripts\Activate.ps1|
+   
+3. 
