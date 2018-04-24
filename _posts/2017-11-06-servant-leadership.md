@@ -1,6 +1,7 @@
 ---
 title: Servant Leadership
-excerpt: Studying the effects of the application of servant leadership through the  review of a case study.   
+excerpt: Studying the effects of the application of servant leadership through the  review of a case study. 
+categories: leadership
 published: true
 ---
 
