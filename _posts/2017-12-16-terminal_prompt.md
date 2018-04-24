@@ -1,6 +1,7 @@
 ---
 title: "Modify Terminal Prompt"
 excerpt: I've been using the standard terminal prompt forever, but I got sick of it...
+categories: tech
 published: true
 ---
 
