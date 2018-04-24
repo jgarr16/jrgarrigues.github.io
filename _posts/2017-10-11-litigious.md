@@ -1,6 +1,7 @@
 ---
 title: "49&#162; Delimma"
 excerpt: Too often in our litigious society, good intentions get bogged down by legalese. Maybe somebody can do something about it (or maybe it's all just so much puffery). 
+categories: commentary
 published: true
 ---
 
