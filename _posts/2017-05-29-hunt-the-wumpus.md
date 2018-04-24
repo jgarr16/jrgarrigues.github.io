@@ -1,6 +1,7 @@
 ---
 title: "Hunt the Wumpus"
 excerpt: Developing a game to learn how to code in Python.
+categories: tech
 published: true
 ---
 
