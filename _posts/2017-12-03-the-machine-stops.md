@@ -1,6 +1,7 @@
 ---
 title: The Machine Stops
 excerpt: A short story by E. M. Forster that predicts the rise and fall of technology and its impact on humanity.   
+categories: tech
 published: true
 ---
 
