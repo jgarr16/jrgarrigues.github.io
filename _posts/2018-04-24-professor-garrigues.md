@@ -1,6 +1,6 @@
 ---
 title: "Professor Garrigues"
-excerpt: It's in my blood?
+excerpt: Different family tree! Obviously!
 published: true
 ---
 
