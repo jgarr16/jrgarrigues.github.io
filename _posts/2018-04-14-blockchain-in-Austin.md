@@ -1,6 +1,7 @@
 ---
 title: "Blockchain in Austin"
 excerpt: Looking for ways that blockchain can be used outside of the cryptocurrency realm.
+categories: tech
 published: true
 ---
 
