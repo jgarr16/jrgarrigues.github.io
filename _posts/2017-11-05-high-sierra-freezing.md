@@ -1,6 +1,7 @@
 ---
 title: "High Sierra Display Problem"
-excerpt: This post describes a resolution to problems that I encountered with my MacBook Pro after updating its operating system to High Sierra in October 2017.   
+excerpt: This post describes a resolution to problems that I encountered with my MacBook Pro after updating its operating system to High Sierra in October 2017.  
+categories: tech
 published: true
 ---
 
