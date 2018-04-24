@@ -1,6 +1,7 @@
 ---
 title: "Professor Garrigues"
 excerpt: Different family tree! Obviously!
+categories: friends
 published: true
 ---
 
