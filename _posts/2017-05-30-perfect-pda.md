@@ -1,6 +1,7 @@
 ---
 title: "The Perfect PDA"
 excerpt: I've always struggled with developing a system to manage my efforts, but think I might have stumbled on something in Python.
+categories: tech
 published: true
 ---
 
