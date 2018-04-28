@@ -5,7 +5,7 @@ categories: commentary
 published: true
 ---
 
-Technology is a dream, isn't it? It's just so damn easy to do everything these days. Open up a computer, bang out a few lines, and - Voila! - it's done. Take craigslist (the online want ads) for example. Used to be, if you wanted to buy or sell something, you took out an ad in your local newspaper and sat back for the long wait. But then...
+Technology is a dream, isn't it? It's just so damn easy to do everything these days. Open up a computer, bang out a few lines, and - Voila! - it's done. Take craigslist (the online want ads) for example. Used to be, if you wanted to buy or sell something, you took out an ad in your local newspaper and sat back for the long wait. And then came...
 
 !["craigslist"](/images/craigslist.png)
 
@@ -25,4 +25,4 @@ When I used these services before, the biggest concern was in getting jumped for
 
 In the long run, I guess that we can do a whole bunch of stuff faster now, but we have to keep in mind that so can everybody else. The scammers are still out there, and they always will be. So, while normal people are taking advantage of technology and saving time in the process, so are the bad guys. Which means that part of the price we pay for expedience is the need for an ever-increasing vigilance. So...
 
-###If it seems too good to be true...###
+#If it seems too good to be true...#
