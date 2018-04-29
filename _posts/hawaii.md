@@ -1,0 +1,3 @@
+Working on a new master plan...
+
+[![니가가라 하와이](https://img.youtube.com/vi/eBF5wDkZRm4/0.jpg)](https://www.youtube.com/watch?v=eBF5wDkZRm4)
