@@ -36,4 +36,6 @@ You'll be presented with the color schema for some additional components that lo
 
 You can reset any of these colors to match your preference using the appropriate command `$host.PrivateData.ErrorForegroundColor = "Red"` with your choice of the following colors: Black, Blue or DarkBlue, Green or DarkGreen, Cyan or DarkCyan, Red or DarkRed, Magenta or DarkMagenta, Yellow or DarkYellow, or White.
 
+These settings are ephemeral - meaning that they will hold for the remainder of your PowerShell session, but once you exit the application, they'll have to be reset. 
+
 
