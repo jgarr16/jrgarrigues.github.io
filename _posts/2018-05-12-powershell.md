@@ -28,3 +28,6 @@ You'll be presented with the color schema for some additional components that lo
     ProgressForegroundColor : Yellow
     ProgressBackgroundColor : DarkCyan
 ```
+You can reset any of these colors to match your preference using the appropriate command `$host.PrivateData.ErrorBackgroundColor = "Magenta"` with your choice of the following colors: Black, Blue or DarkBlue, Green or DarkGreen, Cyan or DarkCyan, Red or DarkRed, Magenta or DarkMagenta, Yellow or DarkYellow, or White.
+
+
