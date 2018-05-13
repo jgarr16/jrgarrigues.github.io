@@ -4,10 +4,6 @@ excerpt: I find myself using Windows Powershell more and more these days; wanted
 categories: tech
 published: true
 ---
-!["Windows Powershell!"](/images/powershell.png)
+!["Windows Powershell!"](/images/powershell2.png)
 
-cmd... 
-command line... 
-dos prompt... 
-
-These days it's called Powershell. 
+It has been known by various names over the years - dos prompt, command line, cmd... - but now it's called Powershell. Though I prefer to work in the nix environments, I don't always get a choice when I need to do something on the command line at work. So, Powershell it is. 
