@@ -5,12 +5,16 @@ categories: tech
 published: true
 ---
 !["Windows Powershell!"](/images/powershell2.png)
+
 It has been known by various names over the years - dos prompt, command line, cmd - but now, it's Powershell. Personally, I prefer to work in nix environments, but I don't always get a choice when I need to do something on the command line at work. So, Powershell it is... And Powershell is actually a pretty decent product; it has come a long way - it's even open source now!  
+
 The name has changed, but its looks haven't. At least, not on the face of it.   
 !["Windows DOS Prompt"](/images/win95dosprompt2.png)  
+
 Powershell's out-of-the-box appearance isn't much different from the original; black background, white text, plain Jane. The saving grace is that you can modify its appearance to your personal preferences; that's what we're going to do here. 
 The first step is pretty simple. Open up the Powershell application, right-click the top bar of the window and select __Properties__. 
 !["Powershell configuration"](/images/powershelloptions3.png) 
+
 Play around with the colors for the background, text, even the opacity of the window itself. Once you've found the right combination, consider doing the same on the __Default__ tab. 
 With the initial configuration out of the way you will be straight on the basics, but you're going to find that there are still a few tweaks you want to make. Unlike the first part, these are a little more advanced and can't be done in the graphic user interface (GUI). Fittingly, they have to be made in Powershell itself. 
  
