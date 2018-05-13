@@ -15,6 +15,17 @@ Play around with the colors for the background, text, even the opacity of the wi
 With the initial configuration out of the way you will be straight on the basics, but you're going to find that there are still a few tweaks you want to make. Unlike the first part, these are a little more advanced and can't be done in the graphic user interface (GUI). Fittingly, they have to be made in Powershell itself. 
  
 Open a PowerShell window and type in the following command: 
-
 `$host.privatedata`
-
+You'll be presented with the color schema for some additional components that looks something like this: 
+`
+ErrorForegroundColor    : Red
+ErrorBackgroundColor    : Black
+WarningForegroundColor  : Yellow
+WarningBackgroundColor  : Black
+DebugForegroundColor    : Yellow
+DebugBackgroundColor    : Black
+VerboseForegroundColor  : Yellow
+VerboseBackgroundColor  : Black
+ProgressForegroundColor : Yellow
+ProgressBackgroundColor : DarkCyan
+`
