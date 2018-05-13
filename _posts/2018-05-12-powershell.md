@@ -9,7 +9,7 @@ It has been known by various names over the years - dos prompt, command line, cm
 The name has changed, but its looks haven't. At least, not on the face of it.   
 !["Windows DOS Prompt"](/images/win95dosprompt2.png)  
 Powershell's out-of-the-box appearance isn't much different from the original; black background, white text, plain Jane. The saving grace is that you can modify its appearance to your personal preferences; that's what we're going to do here. 
-First steps
-!["default configuration"](/images/powershelloptions.png)  !["updated configuration"](/images/powershelloptions2.png) 
-
+The first step is pretty simple. Open up the Powershell application, right-click the top bar of the window and select __Properties__. 
+!["Powershell configuration"](/images/powershelloptions3.png) 
+Play around with the colors for the background, text, even the opacity of the window itself. Once you've found the right combination
  
