@@ -16,7 +16,7 @@ With the initial configuration out of the way you will be straight on the basics
  
 Open a PowerShell window and type in the following command `$host.privatedata`.
 You'll be presented with the color schema for some additional components that looks something like this: 
-```    ErrorForegroundColor    : Red 
+    ErrorForegroundColor    : Red 
     ErrorBackgroundColor    : Black 
     WarningForegroundColor  : Yellow
     WarningBackgroundColor  : Black
@@ -25,4 +25,4 @@ You'll be presented with the color schema for some additional components that lo
     VerboseForegroundColor  : Yellow
     VerboseBackgroundColor  : Black
     ProgressForegroundColor : Yellow
-    ProgressBackgroundColor : DarkCyan```
+    ProgressBackgroundColor : DarkCyan
