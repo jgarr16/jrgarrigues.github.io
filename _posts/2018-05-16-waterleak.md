@@ -29,3 +29,8 @@ The first two recommendations had similar themes, which almost made us think tha
 So, we kept thinking... 
 
 One of the things that didn't quite add up to the saturated ground & wicking theory that the first two were pushing was heighth. We did some rudimentary measurements as part of our initial discovery, before we called contractors. It was difficult to tell exactly where the ceiling of the basement lined up with the ground outside - was the ground __above__ the level of the ceiling (or, more importantly, the sill on top of the concrete wall)? There was a water spicket on the outside of the front wall that we used to estimate the heighth, but it was too close to know for sure. That said, it seemed like the ground level was below, or just at, the level of the sill. If it was below, then the saturation theory didn't hold water (pun intended) because the water from outside the house would have to travel upward to get over the concrete and then flow down the side of the concrete wall in order to form a puddle on the floor. 
+
+The other nagging tid-bit was the fact that we only had leaks when there was a driving rain from the South. If the saturation theory was true, why wouldn't rain from any other direction have the same result? Something wasn't adding up. So, we went outside to think about things... 
+
+!["Front of House"](/images/front_house.jpg)
+
