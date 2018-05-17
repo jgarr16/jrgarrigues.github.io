@@ -10,4 +10,4 @@ It started as a hobby!
 
 Okay, I lie. There's nothing relaxing about chasing water leaks in your home. In fact, it can be downright frustrating. I want to share the things I've learned as I chased a couple leaks in my home so that, maybe, it can save somebody else some grief (or at least let them know that they're not the only people that are having this problem! - comfort in numbers!). 
 
-Our little journey started off on the front side of the house. 
+Our little journey started off on the front side of the house. We invariably ended up with a small puddle on our basement floor when the rain came in hard from the South. ["basement floor"](/images/basement_floor.jpg) It took some time to narrow down the factors that resulted in a puddle
