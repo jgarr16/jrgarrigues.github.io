@@ -36,4 +36,11 @@ The other nagging tid-bit was the fact that we only had leaks when there was a d
 
 !["Front of House"](/images/front_house.jpg)
 
-We started testing. On a bright and sunny weekend day, we broke out a water hose and sprayed the ground down trying to replicate "saturation" (we made mud; that one didn't last long). 
+We started testing. On a bright and sunny weekend day, we broke out a water hose and sprayed the ground down trying to replicate "saturation" (we made mud; that one didn't last long). Then, in an attempt to replicate the hard, driving rain from the South, we started spraying the front of the house in the general area of the leaks (more mud). We flooded the corners, sprayed water at cracks and crevices, did everything we could think of to get water from the outside of the house to the inside on the floor of the basement... Nada. 
+
+At one point, my wife went inside the house. A few minutes later, she appeared in one of the upstairs windows, hanging out and peering down toward the top of the window casements on the floor below, asking me if the gap in them was normal. A few minutes later we were pouring a container of water onto the tops of the casements. Lo and behold, puddles appeared on the basement floor. We repeated the process on all four downstairs windows and ended up with several leaks, spread equilaterally across the front wall of the basement. 
+
+A couple days later, color-matched caulking filled the gaps between the casements and the siding and we've never had a leak on the front wall of the basement since. 
+
+...but there are other walls... 
+
