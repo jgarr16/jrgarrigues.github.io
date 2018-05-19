@@ -42,5 +42,5 @@ At one point, my wife went inside the house. A few minutes later, she appeared i
 
 A couple days later, color-matched caulking filled the gaps between the casements and the siding and we've never had a leak on the front wall of the basement since. 
 
-...but there are other walls... 
+...but there are other walls! 
 
