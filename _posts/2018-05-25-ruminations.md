@@ -6,4 +6,4 @@ published: false
 ---
 !["Moltke"](/images/moltke.jpg)
 
-__Moltke on Leadership__
+
