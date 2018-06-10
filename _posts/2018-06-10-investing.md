@@ -1,5 +1,5 @@
 ---
-title: "Micro Investing"
+title: "Micro-Investing"
 excerpt: Pondering on small ways to make money work.
 categories: commentary
 published: true
