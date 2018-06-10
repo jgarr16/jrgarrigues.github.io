@@ -6,7 +6,7 @@ published: true
 ---
 Investing is a huge topic, and, sadly, one that I'm not as familiar with as I would like to be. I mean, I'm set with the basics, but I could do more. The problem is that it is such a time-soak - you've got to learn about investing (_or pay somebody to do it for you - which is a non-sequitur for me because I'm so damned cheap!_), learn how to use the various tools, and then learn about each and every organization that you want to invest in and stay up-to-date on them afterwards. I'm not opposed to learning, but if you do the math you'll find that this quickly becomes an all-consuming activity!  
 
-!["Acorns"](/images/CD319D00-E1C6-476B-96D6-9DB9C86223B3.gif)
+# !["Acorns"](/images/CD319D00-E1C6-476B-96D6-9DB9C86223B3.gif)
 
 But wait! Turns out that there's an app for that! I heard about a micro-investing app called [Acorns](https://www.acorns.com/) that focuses on turning your spare change into an investment. So I poked around a little on their site. This one wouldn't work for me because it's a subscription-based service (_I'm generally not a fan of subscriptions, even though theirs is a very small fee and they even waive it for students_). Nevertheless, I found the concept of a bite-sized approach to investing intriguing. The question then became, "how can I focus on investing pennies?" 
 
