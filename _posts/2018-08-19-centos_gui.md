@@ -12,8 +12,12 @@ Eventually, I ended up updating my minimal installation of CentOS to a version t
 
 It quickly became apparent that there's a difference between working purely on the command line and working in a terminal window on the desktop. I could just deal with it, but a lot of the time I spent on my CentOS machine wasn't actually ON the CentOS machine - instead I was logging in remotely through a secure shell (SSH) session from my Mac or even my iPad/iPhone -the former could handle sessions for a remote desktop, but my mobile devices would be hard pressed to work well with the GUI. Seeing as how this is a NIX environment, I was confident that I could bounce between CLI and GUI; all I needed to do was figure out which commands to run to flip the GUI/CLI switch...
 
-As it turns out, there are two. I've got the CentOS machine set to boot up to the command line, so that's my starting point. Entering this command effectively puts me in GUI mode
+As it turns out, there are two. I've got the CentOS machine set to boot up to the command line, so that's my starting point. When I need to change this, I can alter the system control target (or runlevel) by entering this command:
+
+`systemctl set-default graphical.target`
+
+Doing so effectively puts CentOS in GUI mode (what was formerly known as "runlevel 5"). At this point I'll be running a full desktop. I can stay in that mode if I'm working locally, or I can go back to the command line evironment by entering the following command: 
 
 `systemctl set-default multi-user.target`
 
-`systemctl set-default graphical.target`
+Voila! After a brief pause, I'm transported back to my familiar command line environment where I can try to get something done without those pesky GUI distractions! 
