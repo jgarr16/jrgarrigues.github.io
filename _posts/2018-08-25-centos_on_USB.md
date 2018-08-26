@@ -13,10 +13,11 @@ This series of posts details the steps necessary to build a Linux machine out of
 3. Install the latest version of Python
 4. Enable Secure Shell (SSH) and RSync/SCP so that I can work on the Linux box remotely. 
 
-This post starts off bydescribes the steps necessary to create a bootable thumb drive loaded with the CentOS 7 operating system. I'll be using a Macbook Pro to download the OS and load it on the USB thumb drive because that is probably the most difficult path (i.e., using Windows or Linux to do the same will likely be a little easier). So, for starters, I'll gather the resources required to do the job: 
+This post starts off with a description of the steps necessary to create a bootable thumb drive loaded with the operating system. I'll be using a Macbook Pro to download the OS and load it on the USB thumb drive because that is probably the most difficult path (i.e., using Windows or Linux to do the same will likely be a little easier). So, for starters, I'll gather the resources required to do the job: 
 
-- Operating System - I'll be using CentOS which can be downloaded from https://www.centos.org 
+- Get a copy of the operating system.  
 - USB thumb drive with sufficient capacity for your operating system.
 - A computer on which to perform all of these activities (I will be using a Mac). 
 - Some time... 
 
+Before you get started, you'll need to decide which flavor of Linux you want to use. I'll be using CentOS which can be downloaded from the [CentOS homepage](https://www.centos.org){target="_blank"}.
