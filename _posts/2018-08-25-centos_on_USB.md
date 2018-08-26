@@ -56,5 +56,21 @@ Note that I did not type in the file extension for the new DMG image name, but I
 
 ![hdiutil command](/images/hdiutil.jpg) 
 
-### Copy CentOS to the USB
+### Copy CentOS to the Thumb Drive
+
+Now it's time to put the resultant image of the ISO file onto the thumb drive. This is where the data duplicator, or "dd" command comes in. Because it is powerful, and likely because its incorrect use has been known to cause the loss of data, the `dd` command must be executed by users with elevated permissions (i.e., typically either a super user or root). The structure of this command is: 
+
+`dd if=<new DMG image name with file extension> of=<location for output>` 
+
+In my case, the actual command looks like this: 
+
+`sudo dd if=CentOS-7-x86_64-Everything-1804.dmg of=/dev/disk2`
+
+Note that in this case I did tag on the file extension for the DMG image name. At 9.4 GB, this is a pretty big file to move over onto the thumb drive. It took my Mac about 30 minutes to do it; your mileage may vary. 
+
+![disk unreadable error message](/images/dd_error.jpg)
+
+When it's done, you might get a popup window that indicates that the thumb drive is unreadable; don't freak out, it's working as it should. Instead, go back to your terminal window and enter the `diskutil eject /dev/disk2` command (*replacing /dev/disk2 witht the correct name of your drive*). You will receive a confirmation on the next line. Once confirmed, feel free to click the "Ignore" button to get rid of the popup window. 
+
+Now you're all set; you've got Linux on a bootable thumb drive and you can install it on your workstation/laptop/etc. Have fun! 
 
