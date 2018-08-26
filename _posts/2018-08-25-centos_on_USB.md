@@ -52,3 +52,9 @@ In my case, the actual command looks like this:
 
 `hdiutil convert -format UDRW -o CentOS-7-x86_64-Everything-1804 CentOS-7-x86_64-Everything-1804.iso`
 
+Note that I did not type in the file extension for the new DMG image name, but I did include the file extension for the old ISO filename. Once the conversion is complete, you'll see a report in the terminal window that looks like this:
+
+![hdiutil command](/images/hdiutil.jpg) 
+
+### Copy CentOS to the USB
+
