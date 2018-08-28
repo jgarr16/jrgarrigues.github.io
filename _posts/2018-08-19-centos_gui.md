@@ -2,6 +2,7 @@
 title: "CentOS GUI vs. CLI"
 excerpt: Working through the ability to bounce back and forth between the command line and a graphical user interface.
 categories: tech
+series: CentOS
 published: true
 ---
 I have been running CentOS on an old laptop for a little while now. I initially set up a lab that mimicked my work environment, where I needed to work across Windows and Linux platforms to do the things I needed to do on the job. As time went by, I found myself expanding my little lab at home and branching out beyond what was available to me in the office.
