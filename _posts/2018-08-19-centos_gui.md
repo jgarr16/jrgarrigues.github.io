@@ -5,6 +5,8 @@ categories: tech
 series: CentOS
 published: true
 ---
+!["CentOS 7"](/images/CentOS.png)
+
 I have been running CentOS on an old laptop for a little while now. I initially set up a lab that mimicked my work environment, where I needed to work across Windows and Linux platforms to do the things I needed to do on the job. As time went by, I found myself expanding my little lab at home and branching out beyond what was available to me in the office.
 
 I started off working purely on the command line with no real need for the graphical user interface. Over time I realized that I had a need for interactivity beyond the command line; particularly when I needed to reach out and find information (usually via a web browser). Some needs I was able to solve within the confines of the textual boundaries of CLI - email using [Mutt](http://www.mutt.org), even some preliminary internet searching using [Googler](https://github.com/jarun/googler), but there were still situations that required more. 
