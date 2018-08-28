@@ -2,7 +2,7 @@
 title: "Brave New World"
 excerpt: A view of the future from the early 1930s.
 categories: commentary
-published: false
+published: true
 ---
 !["Brave New World"](/images/BraveNewWorld.jpg)
 
