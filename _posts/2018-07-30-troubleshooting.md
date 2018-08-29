@@ -2,6 +2,7 @@
 title: "Keep It Simple"
 excerpt: It's always the simple things that reach out and grab ya'.
 categories: tech
+thumbnail: wrench
 published: true
 ---
 !["2017 MacBook Pro"](/images/mbp.jpg)
