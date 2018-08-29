@@ -2,6 +2,7 @@
 title: "CentOS 7 on USB"
 excerpt: Setting up a USB thumb drive with the CentOS 7 .iso image.
 categories: tech
+thumbnail: wrench
 series: CentOS
 published: true
 ---
