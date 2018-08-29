@@ -2,6 +2,7 @@
 title: "CentOS GUI vs. CLI"
 excerpt: Working through the ability to bounce back and forth between the command line and a graphical user interface.
 categories: tech
+thumbnail: wrench
 series: CentOS
 published: true
 ---
