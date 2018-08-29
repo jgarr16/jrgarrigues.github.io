@@ -2,6 +2,7 @@
 title: "Textastic - iOS App"
 excerpt: I ran across some neat, new features in an app that had languished on my iPad & iPhone.
 categories: tech
+thumbnail: wrench
 published: true
 ---
 !["Textastic"](/images/textastic.png)
