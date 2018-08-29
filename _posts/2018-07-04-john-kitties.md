@@ -2,6 +2,7 @@
 title: "Making Friends"
 excerpt: Freindly, and squeezably soft to boot.
 categories: friends
+thumbnail: wrench
 published: true
 ---
 
