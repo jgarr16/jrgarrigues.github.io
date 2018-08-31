@@ -2,6 +2,7 @@
 title: "Kitty Sightings"
 excerpt: Update on the newbies.
 categories: friends
+thumbnail: wrench
 published: true
 ---
 
