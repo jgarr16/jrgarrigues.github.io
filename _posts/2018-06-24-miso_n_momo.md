@@ -2,6 +2,7 @@
 title: "A Couple Additions"
 excerpt: Adding two new siblings to the family unit.
 categories: friends
+thumbnail: wrench
 published: true
 ---
 
