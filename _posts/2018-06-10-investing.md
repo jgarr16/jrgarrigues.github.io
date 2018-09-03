@@ -2,6 +2,7 @@
 title: "Micro-Investing"
 excerpt: Pondering on small ways to make money work.
 categories: commentary
+thumbnail: wrench
 published: true
 ---
 Investing is a huge topic, and, sadly, one that I'm not as familiar with as I would like to be. I mean, I'm set with the basics, but I could do more. The problem is that it is such a time-soak - you've got to learn about investing (_or pay somebody to do it for you - which is a non-sequitur for me because I'm so damned cheap!_), learn how to use the various tools, and then learn about each and every organization that you want to invest in and stay up-to-date on them afterwards. I'm not opposed to learning, but if you do the math you'll find that this quickly becomes an all-consuming activity!  
