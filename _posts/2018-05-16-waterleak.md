@@ -2,6 +2,7 @@
 title: "Chasing Water Leaks"
 excerpt: Chasing a crazy water leak in our house - not the best way to spend a weekend (or a year!).
 categories: commentary
+thumbnail: wrench
 published: true
 ---
 !["Water Drip"](/images/water_drip.jpeg)
