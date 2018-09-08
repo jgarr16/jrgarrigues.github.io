@@ -2,6 +2,7 @@
 title: "Customizing Powershell"
 excerpt: I find myself using Windows Powershell more and more these days; wanted to customize the experience.
 categories: tech
+thumbnail: wrench
 published: true
 ---
 !["Windows Powershell!"](/images/powershell2.png)
