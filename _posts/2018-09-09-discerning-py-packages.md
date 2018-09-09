@@ -1,4 +1,10 @@
-
+---
+title: "Managing Python Packages"
+excerpt: A method for identifying packages installed in your Python environment.
+categories: tech
+thumbnail: wrench
+published: true
+---
 
 
 
