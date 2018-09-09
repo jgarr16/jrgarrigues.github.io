@@ -2,6 +2,7 @@
 title: "Baby Steps"
 excerpt: A little bit at a time will get ya there...
 categories: commentary
+thumbnail: wrench
 published: true
 ---
 
