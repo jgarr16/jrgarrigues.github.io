@@ -2,6 +2,7 @@
 title: "Craigslist"
 excerpt: Times, they are a changin'
 categories: commentary
+thumbnail: wrench
 published: true
 ---
 
