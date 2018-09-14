@@ -2,6 +2,7 @@
 title: "Get in step!"
 excerpt: Sometimes old habits die hard.
 categories: commentary
+thumbnail: wrench
 published: true
 ---
 
