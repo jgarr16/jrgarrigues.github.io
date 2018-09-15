@@ -2,6 +2,7 @@
 title: "Professor Garrigues"
 excerpt: Different family tree! Obviously!
 categories: friends
+thumbnail: wrench
 published: true
 ---
 
