@@ -2,6 +2,7 @@
 title: "Python Virtual Environments (venv)"
 excerpt: Using virtual environments in Python.
 categories: tech
+thumbnail: wrench
 published: true
 ---
 
