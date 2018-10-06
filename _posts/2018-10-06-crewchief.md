@@ -12,6 +12,6 @@ You'll notice the helmet-art on my flight helmet. While a step down from the nos
 
 ![Circa 1986](/images/jg_crewchief.png)
 
-Apparently, I had time on my hands back then because I made another copy of my little symbol for my car, as seen in this picture on Tantalus Drive, in Hawaii.
+Apparently, I had time on my hands back then because I made another copy of my little symbol for my car, as seen in this picture on [Tantalus Drive](https://www.tripsavvy.com/driving-tour-of-mount-tantalus-1533794), in Hawaii.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/15699641@N00/29916280077/in/album-72157700048238741/" title="Mercury Capri &#x27;74 - Diamond Head"><img src="https://farm2.staticflickr.com/1905/29916280077_b4475b35b7.jpg" width="500" height="333" alt="Mercury Capri &#x27;74 - Diamond Head"></a>
