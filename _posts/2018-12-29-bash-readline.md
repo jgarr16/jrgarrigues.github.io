@@ -16,5 +16,7 @@ In order to enable readline in bash, edit (or create) the <code>~/.inputrc</code
   "\e[B":history-search-forward
 ```
 
-More can be found on the Bash Reference Manual, in particular on the [bash readline](http://www.gnu.org/software/bash/manual/bashref.html#Readline-Interaction)
+It might not work out of the box - meaning that you might have to logout and back in before the inputrc file will take effect.
+
+More can be found on the Bash Reference Manual, in particular on the [bash readline](http://www.gnu.org/software/bash/manual/bashref.html#Readline-Interaction).
 
