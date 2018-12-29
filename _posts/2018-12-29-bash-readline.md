@@ -1,11 +1,11 @@
 ---
-title: "Overlapping Shapes in Visio 2016"
-excerpt: Mods to BASH shell. 
+title: "Bash Readline"
+excerpt: Mods to the Bourne-again shell. 
 categories: tech
 thumbnail: wrench
 published: true
 ---
-!["borne-again shell"](/images/linux.png)
+!["Linux"](/images/linux.png)
 
 In order to enable readline in bash, edit (or create) the <code>~/.inputrc</code> file to include the following:
 
