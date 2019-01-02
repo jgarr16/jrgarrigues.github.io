@@ -1,3 +1,11 @@
+---
+title: "Electric Eye"
+excerpt: Listening to the "wisdom" of ancient music. 
+categories: commentary
+thumbnail: wrench
+published: false
+---
+!["Linux"](/images/linux.png)
 
 
 
