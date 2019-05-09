@@ -1,5 +1,5 @@
 ---
-title: "Python3.7.3 on CentOS 7"
+title: "Python 3.7.3 on CentOS 7"
 excerpt: Setting up the latest version of Python on CentOS 7.
 categories: tech
 thumbnail: wrench
