@@ -6,8 +6,7 @@ thumbnail: wrench
 series: CentOS
 published: true
 ---
-!["Python"](/images/python-logo-for-blog.png)
-!["CentOS 7"](/images/CentOS.png)
+!["Python"](/images/python-logo-for-blog.png) !["CentOS 7"](/images/CentOS.png)
 
 It's always a pain to install Python 3 on CentOS because they don't allow the cutting edge Python packages in their repositories (and even epel is a few versions behind). We need to run the following commands to build and install Python 3.7.3 (the latest version at the time of this writing):
 
